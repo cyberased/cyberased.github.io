@@ -17,10 +17,10 @@ avatar: https://www.serendeepity.net/wp-content/uploads/2017/11/WAP410.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email:
+  email: ps@cyberased.com
   github: cyberased
-  linkedin: 
-  rss: # just type anything here for a working RSS icon
+  linkedin: https://www.linkedin.com/in/petrspirik/
+  rss: cyberased
   twitter: cyberased
 
 # Enter your Google Analytics web tracking code (e.g. UA-XXXYYYZ-Z) to activate tracking
