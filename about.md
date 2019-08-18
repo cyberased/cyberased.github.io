@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Global enterprise cyber security director, CISO and privacy enthusiast with passion for cross-disciplinary implications of technology development to our sociaty and individual life.
 
-### More Information
+### Blog
 
-A place to include any other types of information that you'd like to include about yourself.
+This is a personal space for capturing my thoughts, ideas and bits & pieces of information I find interesting, while reading and/or surfing online.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ps@cyberased.com](mailto:ps@cyberased.com)
