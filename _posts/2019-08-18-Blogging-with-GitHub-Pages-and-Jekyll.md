@@ -3,7 +3,7 @@ layout: post
 title: Blogging with GitHub Pages & Jekyll
 ---
 
-Combination of [GitHub Pages](https://pages.github.com/) (free) and [Jekyll](https://jekyllrb.com/) (free) for static site generation is for me the long sought-after answer to a question "How to best publish my thoughts online, in a blog form?". Where "best" represents the blurry mix of the desires to avoid lock-in to walled gardens of the likes of Google, Facebook or LinkedIn, the need to control and own my content (but at the same time not to spend more effort in keeping the system up and running than using it) – and finally, not overcooking it.
+Combination of [GitHub Pages](https://pages.github.com/) (free) and [Jekyll](https://jekyllrb.com/) (free) for static site generation is for me the long sought-after answer to a question _"How to best publish my thoughts online, in a blog form?"_. Where **_"best"_** represents the blurry mix of the desires to avoid lock-in to walled gardens of the likes of Google, Facebook or LinkedIn, the need to control and own my content (but at the same time not to spend more effort in keeping the system up and running than using it) – and finally, not overcooking it.
 
 In other words, I was looking for easy to use, lightweight, trusted way of publishing online that is secure and robust. After several attempts from different angles (self-hosted WordPress, Google Blogger on my own domain, manual static site generation, Tumblr and few others), I landed with GitHub Pages + Jekyll combo.
 
