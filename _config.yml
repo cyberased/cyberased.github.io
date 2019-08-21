@@ -28,7 +28,7 @@ google_analytics:
 
 # Your website URL (e.g. http://cyberased.github.io or http://www.cyberased.com)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://www.cyberased.com
 
 #
 # !! You don't need to change any of the configuration flags below !!
